@@ -1,8 +1,10 @@
 # B.Tech-Project
 
-Project name: Smart Alerting System for Fall Detection.
+# Project name: 
+Smart Alerting System for Fall Detection.
 
-Project Description: Nowadays Senior Citizens and disabled people can overcome their disabilities in 
+# Project Description: 
+Nowadays Senior Citizens and disabled people can overcome their disabilities in 
 carrying out daily tasks in many facilities. But they have trouble being independently 
 mobile and sometimes they fall, and due to delay in late treatment after fall it increases the 
 chances of severe injuries. Hence keeping this in mind an idea to develop a fall detection 
