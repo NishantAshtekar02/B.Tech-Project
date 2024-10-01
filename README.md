@@ -21,3 +21,7 @@ different pose detection models was made to find and provide the best suited sol
 the problem. In the proposed system Smart Alarming System plays the final and most 
 essential role as it will to convey about the detected fall to the user’s relatives or caregivers 
 to provide the treatment.
+
+# Images of the project: 
+![image](https://github.com/user-attachments/assets/84d9268a-1e0c-4297-a199-3f68cca5f2dc)
+
