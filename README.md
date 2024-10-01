@@ -12,6 +12,7 @@ system emerged. This report mainly focuses on the problem we discussed. In recen
 artificial intelligence techniques have shown a remarkable detection of human fall in 
 comparison to traditional techniques. Human Fall detection systems aim to reduce both 
 dependency and care costs in the elderly community.  
+
 The proposed system consists of three stages namely pose estimation, fall detection, 
 and alarming system. This system exceptionally proves itself better than existing solutions 
 because no physical devices will be used. For eg. Smart Watches, Wrist Bands. Also, other 
