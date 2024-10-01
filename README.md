@@ -24,4 +24,13 @@ to provide the treatment.
 
 # Images of the project: 
 ![image](https://github.com/user-attachments/assets/84d9268a-1e0c-4297-a199-3f68cca5f2dc)
+Key points detected
+
+![image](https://github.com/user-attachments/assets/7d8f5ac6-28b2-44bf-a026-c6955a233bc7)
+Detection of Fall
+
+![image](https://github.com/user-attachments/assets/bbab3bc6-513d-4f60-96bf-4d576e5978a6)
+Fall Detected Alert Message to Caretakers
+
+
 
